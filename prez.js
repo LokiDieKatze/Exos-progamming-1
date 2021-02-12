@@ -1,3 +1,4 @@
+// Correction
 let name = 'Sofiane'
 let age = 39
 let city = 'Paris'
