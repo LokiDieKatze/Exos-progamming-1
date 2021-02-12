@@ -1,0 +1,15 @@
+pwd : savoir ou on se trouve
+cd : aller dans le dossier
+cd .. : remonter d'un niveau 
+cd ~ : revenir dans home
+ls : liste des dossiers/fichier dans le dossier dans lequel on se trouve
+mkdir : créer un dossier
+touch : créer un fichier 
+clear : vider la page
+mv : déplacer un fichier
+rm : supprimer un fichier
+rm -r : supprimer un dossier
+cp : copier
+
+
+sudo : sert à exécuter des commandes en tant qu'administrateur car certaines commandes un peu sensibles sont automatiquement bloquées à la base
